@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+<% 20.times do |n| %>
+work_<%= n %>
+  datetimeperformed: <%= Time.now %>
+  user: <%= n % 2 == 0 ? 'camoura' : 'demboosh' %>
+  project: <%= n % 3 == 0 ? 'killorange' : 'killtigo' %>
+  hours: <%= n*2 %>
+<% end %>

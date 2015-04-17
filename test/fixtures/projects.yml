@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+killorange:
+  name: 'kill orange'
+  company: tigo
+  default_rate: 150
+
+killtigo:
+  name: 'kill tigo'
+  company: orange
+  default_rate: 100
+
+killthemall:
+  name: 'I kill them all before :p '
+  company: expresso
+  default_rate: 75

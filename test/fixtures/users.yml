@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+camoura:
+  lname: "katakeynii"
+  fname: "tha doffy"
+  company: orange
+
+demboosh:
+  lname: "dembalé"
+  fname: "Demba"
+  company: tigo
+
+baboosh:
+  fname: "Moustapha"
+  lname: "Thilé :p"
+  company: expresso
